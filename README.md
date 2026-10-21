@@ -7,7 +7,7 @@ AI使用中根据个人使用习惯总结的AI准则
 ```text
 AI/
 ├── README.md              # 总入口
-├── AGENT.md               # AI 行为准则
+├── AGENTS.md               # AI 行为准则
 ├── PROMPTS.md             # 常用 Prompt
 ├── CODING.md              # 编码规范
 ├── WRITING.md             # 写作规范
