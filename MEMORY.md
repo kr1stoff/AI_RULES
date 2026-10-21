@@ -4,7 +4,7 @@
 
 - Windows 个人办公电脑, 
 
-  `Python` 在 `C:\Users\xiangfu.meng\AppData\Local\miniconda3\envs\python3.12\python.exe`
+  `Python` 在 `D:\AppData\miniforge3\envs\python3.15\python.exe`
 
 - Ubuntu 服务器
 
