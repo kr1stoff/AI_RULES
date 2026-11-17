@@ -9,7 +9,7 @@
 ## 解释器地址
 
 1. Windows 个人办公电脑  
-  Python: D:\AppData\miniforge3\envs\python3.15\python.exe
-
+    - Python: D:\AppData\miniforge3\envs\python3.15\python.exe
 2. Ubuntu 服务器  
-  Python: /home/mengxf/miniforge3/envs/python3.12/bin/python
+    - Python: /home/mengxf/miniforge3/envs/python3.12/bin/python
+    - Conda: /home/mengxf/miniforge3/bin/conda
